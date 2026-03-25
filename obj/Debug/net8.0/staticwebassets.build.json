@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vdkvFYU2o/JhsDy9XzQOpLhreWQuj5jbxukjiso5ecU=",
+  "Hash": "O3+jeUfiCCs7uRkWmyisXWPmFt/AtXDR09/jArQStKE=",
   "Source": "TallerBackend",
   "BasePath": "_content/TallerBackend",
   "Mode": "Default",
@@ -454,12 +454,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "D:\\Plan 1 negocio plantillas\\TallerBackend\\wwwroot\\main-JVCD4F6W.js",
+      "Identity": "D:\\Plan 1 negocio plantillas\\TallerBackend\\wwwroot\\main-V4SXW7KT.js",
       "SourceId": "TallerBackend",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Plan 1 negocio plantillas\\TallerBackend\\wwwroot\\",
       "BasePath": "_content/TallerBackend",
-      "RelativePath": "main-JVCD4F6W.js",
+      "RelativePath": "main-V4SXW7KT.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -470,7 +470,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\main-JVCD4F6W.js"
+      "OriginalItemSpec": "wwwroot\\main-V4SXW7KT.js"
     },
     {
       "Identity": "D:\\Plan 1 negocio plantillas\\TallerBackend\\wwwroot\\polyfills-B6TNHZQ6.js",

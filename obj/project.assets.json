@@ -4617,11 +4617,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Plan 1 negocio plantillas\\TallerBackend\\TallerBackend.csproj",
+      "projectUniqueName": "D:\\muebles rosan\\MueblesRosan\\TallerBackend.csproj",
       "projectName": "TallerBackend",
-      "projectPath": "D:\\Plan 1 negocio plantillas\\TallerBackend\\TallerBackend.csproj",
+      "projectPath": "D:\\muebles rosan\\MueblesRosan\\TallerBackend.csproj",
       "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-      "outputPath": "D:\\Plan 1 negocio plantillas\\TallerBackend\\obj\\",
+      "outputPath": "D:\\muebles rosan\\MueblesRosan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4699,7 +4699,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
